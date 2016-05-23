@@ -1,4 +1,4 @@
-#Sun May 22 22:43:14 EEST 2016
+#Mon May 23 23:25:49 EEST 2016
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
@@ -39,6 +39,8 @@
 /instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=/home/justi/work/projects/betfair/.git\:
 /instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories.relative=/home/justi/work/projects/betfair/.git\:
 /instance/org.eclipse.egit.core/RepositorySearchDialogSearchPath=/home/justi/work/projects
+/instance/org.eclipse.egit.ui/resourcehistory_graph_split=500,500
+/instance/org.eclipse.egit.ui/resourcehistory_rev_split=700,300
 /instance/org.eclipse.help.base/always_external_browser=false
 /instance/org.eclipse.help.base/dialog_infopop=false
 /instance/org.eclipse.help.base/help_view_open_mode=in_place
@@ -58,6 +60,7 @@
 /instance/org.eclipse.jdt.ui/breadcrumb.org.eclipse.ui.resourcePerspective=true
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=200,200,0
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=200,0,0
+/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
 /instance/org.eclipse.jdt.ui/content_assist_number_of_computers=12
 /instance/org.eclipse.jdt.ui/content_assist_parameters_background=238,232,213
 /instance/org.eclipse.jdt.ui/content_assist_parameters_foreground=88,110,117
@@ -68,11 +71,11 @@
 /instance/org.eclipse.jdt.ui/java_comment_task_tag=220,50,47
 /instance/org.eclipse.jdt.ui/java_comment_task_tag_underline=true
 /instance/org.eclipse.jdt.ui/java_default=101,123,131
-/instance/org.eclipse.jdt.ui/java_doc_default=220,50,47
-/instance/org.eclipse.jdt.ui/java_doc_keyword=203,75,22
+/instance/org.eclipse.jdt.ui/java_doc_default=147,161,161
+/instance/org.eclipse.jdt.ui/java_doc_keyword=88,110,117
 /instance/org.eclipse.jdt.ui/java_doc_keyword_bold=false
-/instance/org.eclipse.jdt.ui/java_doc_link=220,50,47
-/instance/org.eclipse.jdt.ui/java_doc_tag=203,75,22
+/instance/org.eclipse.jdt.ui/java_doc_link=147,161,161
+/instance/org.eclipse.jdt.ui/java_doc_tag=88,110,117
 /instance/org.eclipse.jdt.ui/java_keyword=88,110,117
 /instance/org.eclipse.jdt.ui/java_keyword_bold=false
 /instance/org.eclipse.jdt.ui/java_keyword_return=181,137,0
@@ -279,6 +282,7 @@
 @org.eclipse.e4.ui.css.swt.theme=0.10.100.v20160516-0806
 @org.eclipse.e4.ui.workbench.renderers.swt=0.14.0.v20160518-1929
 @org.eclipse.egit.core=4.4.0.201605041135-m1
+@org.eclipse.egit.ui=4.4.0.201605041135-m1
 @org.eclipse.help.base=4.1.0.v20160519-1730
 @org.eclipse.jdt.core=3.12.0.v20160511-0406
 @org.eclipse.jdt.launching=3.8.100.v20160505-0636
